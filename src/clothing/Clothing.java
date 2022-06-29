@@ -1,4 +1,5 @@
 //Homework example for creating classes
+package clothing;
 public class Clothing {
 
     public double price;

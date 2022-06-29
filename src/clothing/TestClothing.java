@@ -1,3 +1,4 @@
+package clothing;
 //This class creates objects based on the Clothing class
 
 public class TestClothing
