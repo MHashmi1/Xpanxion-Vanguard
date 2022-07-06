@@ -1,0 +1,8 @@
+Samantha Johns 43,32,99,79,85
+Michael Smith 98,84,70,100,76,81
+John Michael 82,92,92 
+Mary Hernandez 88,91,92,79,78
+George Johnson 92,93,75
+Sara Anderson 83,74
+Susan John 78,84,65,71,81
+Mark Smith 69,67,59,62
